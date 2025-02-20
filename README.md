@@ -73,7 +73,7 @@ A sophisticated project for car image classification and preprocessing.
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/your_repo_name.git
+   git clone https://github.com/MasterPo696/NURO.git
    ```
 2. Navigate to the desired project folder:
    ```bash
